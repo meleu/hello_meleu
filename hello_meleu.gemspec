@@ -1,9 +1,9 @@
 Gem::Specification.new do |s|
   s.name = 'hello_meleu'
   s.authors = ['meleu']
-  s.files = ['lib/hello_meleu.rb']
+  s.files = Dir['lib/**/*']
   s.summary = 'Greeting meleu'
-  s.version = '0.0.3'
+  s.version = '0.0.10'
 
   s.homepage = 'https://github.com/meleu/hello_meleu'
   s.metadata = {

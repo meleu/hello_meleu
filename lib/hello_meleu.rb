@@ -1,7 +1,4 @@
 # Class used to greet meleu with "hello".
-#
-# @examples
-# HelloMeleu.hello #=> "Hello meleu!"
 class HelloMeleu
   # Greets meleu with "hello".
   #
